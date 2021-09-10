@@ -71,7 +71,7 @@ body{
     padding:10px 30px;
     margin-bottom: 40px;
     cursor: pointer;
-    background-color: rgb(219, 185, 164);
+    background-color: rgb(245, 140, 76);
     color: white;
    
    
@@ -83,7 +83,7 @@ body{
 }
 
 .title:hover{
-    background-color: rgb(238, 214, 134);
+    background-color: rgb(146, 71, 27);
 }
 
 .author{
